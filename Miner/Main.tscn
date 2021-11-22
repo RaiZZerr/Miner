@@ -1,0 +1,324 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Ground.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Player.tscn" type="PackedScene" id=2]
+
+[node name="Main" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource( 2 )]
+position = Vector2( 1064, 448 )
+
+[node name="Ground" parent="." instance=ExtResource( 1 )]
+position = Vector2( 56, 1024 )
+
+[node name="Ground2" parent="." instance=ExtResource( 1 )]
+position = Vector2( 168, 1024 )
+
+[node name="Ground3" parent="." instance=ExtResource( 1 )]
+position = Vector2( 280, 1024 )
+
+[node name="Ground4" parent="." instance=ExtResource( 1 )]
+position = Vector2( 392, 1024 )
+
+[node name="Ground5" parent="." instance=ExtResource( 1 )]
+position = Vector2( 504, 1024 )
+
+[node name="Ground6" parent="." instance=ExtResource( 1 )]
+position = Vector2( 616, 1024 )
+
+[node name="Ground7" parent="." instance=ExtResource( 1 )]
+position = Vector2( 728, 1024 )
+
+[node name="Ground8" parent="." instance=ExtResource( 1 )]
+position = Vector2( 840, 1024 )
+
+[node name="Ground9" parent="." instance=ExtResource( 1 )]
+position = Vector2( 952, 1024 )
+
+[node name="Ground10" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1064, 1024 )
+
+[node name="Ground11" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1176, 1024 )
+
+[node name="Ground12" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1288, 1024 )
+
+[node name="Ground13" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1400, 1024 )
+
+[node name="Ground14" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1512, 1024 )
+
+[node name="Ground15" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1624, 1024 )
+
+[node name="Ground16" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1736, 1024 )
+
+[node name="Ground17" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1848, 1024 )
+
+[node name="Ground18" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1960, 1024 )
+
+[node name="Ground19" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2072, 1024 )
+
+[node name="Ground20" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2184, 1024 )
+
+[node name="Ground21" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2296, 1024 )
+
+[node name="Ground85" parent="." instance=ExtResource( 1 )]
+position = Vector2( 56, 576 )
+
+[node name="Ground86" parent="." instance=ExtResource( 1 )]
+position = Vector2( 168, 576 )
+
+[node name="Ground87" parent="." instance=ExtResource( 1 )]
+position = Vector2( 280, 576 )
+
+[node name="Ground88" parent="." instance=ExtResource( 1 )]
+position = Vector2( 392, 576 )
+
+[node name="Ground89" parent="." instance=ExtResource( 1 )]
+position = Vector2( 504, 576 )
+
+[node name="Ground90" parent="." instance=ExtResource( 1 )]
+position = Vector2( 616, 576 )
+
+[node name="Ground91" parent="." instance=ExtResource( 1 )]
+position = Vector2( 728, 576 )
+
+[node name="Ground92" parent="." instance=ExtResource( 1 )]
+position = Vector2( 840, 576 )
+
+[node name="Ground93" parent="." instance=ExtResource( 1 )]
+position = Vector2( 952, 576 )
+
+[node name="Ground94" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1064, 576 )
+
+[node name="Ground95" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1176, 576 )
+
+[node name="Ground96" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1288, 576 )
+
+[node name="Ground97" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1400, 576 )
+
+[node name="Ground98" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1512, 576 )
+
+[node name="Ground99" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1624, 576 )
+
+[node name="Ground100" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1736, 576 )
+
+[node name="Ground101" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1848, 576 )
+
+[node name="Ground102" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1960, 576 )
+
+[node name="Ground103" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2072, 576 )
+
+[node name="Ground104" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2184, 576 )
+
+[node name="Ground105" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2296, 576 )
+
+[node name="Ground22" parent="." instance=ExtResource( 1 )]
+position = Vector2( 56, 912 )
+
+[node name="Ground23" parent="." instance=ExtResource( 1 )]
+position = Vector2( 168, 912 )
+
+[node name="Ground24" parent="." instance=ExtResource( 1 )]
+position = Vector2( 280, 912 )
+
+[node name="Ground25" parent="." instance=ExtResource( 1 )]
+position = Vector2( 392, 912 )
+
+[node name="Ground26" parent="." instance=ExtResource( 1 )]
+position = Vector2( 504, 912 )
+
+[node name="Ground27" parent="." instance=ExtResource( 1 )]
+position = Vector2( 616, 912 )
+
+[node name="Ground28" parent="." instance=ExtResource( 1 )]
+position = Vector2( 728, 912 )
+
+[node name="Ground29" parent="." instance=ExtResource( 1 )]
+position = Vector2( 840, 912 )
+
+[node name="Ground30" parent="." instance=ExtResource( 1 )]
+position = Vector2( 952, 912 )
+
+[node name="Ground31" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1064, 912 )
+
+[node name="Ground32" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1176, 912 )
+
+[node name="Ground33" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1288, 912 )
+
+[node name="Ground34" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1400, 912 )
+
+[node name="Ground35" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1512, 912 )
+
+[node name="Ground36" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1624, 912 )
+
+[node name="Ground37" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1736, 912 )
+
+[node name="Ground38" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1848, 912 )
+
+[node name="Ground39" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1960, 912 )
+
+[node name="Ground40" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2072, 912 )
+
+[node name="Ground41" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2184, 912 )
+
+[node name="Ground42" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2296, 912 )
+
+[node name="Ground43" parent="." instance=ExtResource( 1 )]
+position = Vector2( 56, 800 )
+
+[node name="Ground44" parent="." instance=ExtResource( 1 )]
+position = Vector2( 168, 800 )
+
+[node name="Ground45" parent="." instance=ExtResource( 1 )]
+position = Vector2( 280, 800 )
+
+[node name="Ground46" parent="." instance=ExtResource( 1 )]
+position = Vector2( 392, 800 )
+
+[node name="Ground47" parent="." instance=ExtResource( 1 )]
+position = Vector2( 504, 800 )
+
+[node name="Ground48" parent="." instance=ExtResource( 1 )]
+position = Vector2( 616, 800 )
+
+[node name="Ground49" parent="." instance=ExtResource( 1 )]
+position = Vector2( 728, 800 )
+
+[node name="Ground50" parent="." instance=ExtResource( 1 )]
+position = Vector2( 840, 800 )
+
+[node name="Ground51" parent="." instance=ExtResource( 1 )]
+position = Vector2( 952, 800 )
+
+[node name="Ground52" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1064, 800 )
+
+[node name="Ground53" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1176, 800 )
+
+[node name="Ground54" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1288, 800 )
+
+[node name="Ground55" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1400, 800 )
+
+[node name="Ground56" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1512, 800 )
+
+[node name="Ground57" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1624, 800 )
+
+[node name="Ground58" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1736, 800 )
+
+[node name="Ground59" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1848, 800 )
+
+[node name="Ground60" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1960, 800 )
+
+[node name="Ground61" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2072, 800 )
+
+[node name="Ground62" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2184, 800 )
+
+[node name="Ground63" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2296, 800 )
+
+[node name="Ground64" parent="." instance=ExtResource( 1 )]
+position = Vector2( 56, 688 )
+
+[node name="Ground65" parent="." instance=ExtResource( 1 )]
+position = Vector2( 168, 688 )
+
+[node name="Ground66" parent="." instance=ExtResource( 1 )]
+position = Vector2( 280, 688 )
+
+[node name="Ground67" parent="." instance=ExtResource( 1 )]
+position = Vector2( 392, 688 )
+
+[node name="Ground68" parent="." instance=ExtResource( 1 )]
+position = Vector2( 504, 688 )
+
+[node name="Ground69" parent="." instance=ExtResource( 1 )]
+position = Vector2( 616, 688 )
+
+[node name="Ground70" parent="." instance=ExtResource( 1 )]
+position = Vector2( 728, 688 )
+
+[node name="Ground71" parent="." instance=ExtResource( 1 )]
+position = Vector2( 840, 688 )
+
+[node name="Ground72" parent="." instance=ExtResource( 1 )]
+position = Vector2( 952, 688 )
+
+[node name="Ground73" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1064, 688 )
+
+[node name="Ground74" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1176, 688 )
+
+[node name="Ground75" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1288, 688 )
+
+[node name="Ground76" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1400, 688 )
+
+[node name="Ground77" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1512, 688 )
+
+[node name="Ground78" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1624, 688 )
+
+[node name="Ground79" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1736, 688 )
+
+[node name="Ground80" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1848, 688 )
+
+[node name="Ground81" parent="." instance=ExtResource( 1 )]
+position = Vector2( 1960, 688 )
+
+[node name="Ground82" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2072, 688 )
+
+[node name="Ground83" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2184, 688 )
+
+[node name="Ground84" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2296, 688 )
